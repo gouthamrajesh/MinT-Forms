@@ -815,10 +815,6 @@ body {
 	padding: 57px 0 64px;
 }
 
-.explore-events {
-	
-}
-
 .flex-d {
     display: flex;
     align-items: center;
@@ -5081,6 +5077,7 @@ input[type=number]::-webkit-inner-spin-button {
     border-radius: 10px;
     box-shadow: 0 10px 16px 0px rgb(64 70 74 / 15%) !important;
 }
+
 
 .sell-calculate-banner-content {
     color: #fff;
