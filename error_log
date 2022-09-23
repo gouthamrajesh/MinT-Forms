@@ -1,0 +1,108 @@
+[10-Mar-2022 15:14:57 UTC] PHP Warning:  require_once(/home3/ieeemint/events.ieee-mint.org/wp-load.php): failed to open stream: No such file or directory in /home3/ieeemint/events.ieee-mint.org/wp-blog-header.php on line 13
+[10-Mar-2022 15:14:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home3/ieeemint/events.ieee-mint.org/wp-load.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home3/ieeemint/events.ieee-mint.org/wp-blog-header.php on line 13
+[10-Mar-2022 16:52:48 UTC] PHP Warning:  Use of undefined constant PAYTM_VERSION - assumed 'PAYTM_VERSION' (this will throw an Error in a future version of PHP) in /home3/ieeemint/events.ieee-mint.org/wp-content/plugins/paytm-payments/class.paytm.php on line 338
+[11-Mar-2022 05:25:38 UTC] WordPress database error Commands out of sync; you can't run this command now for query 
+			DELETE
+				a,
+				b
+			FROM
+				wpqj_options a
+				INNER JOIN wpqj_options b
+					ON b.option_name = CONCAT( '_transient_timeout_', SUBSTRING( a.option_name, 12 ) )
+					AND b.option_value < 1646976338
+			WHERE
+				a.option_name LIKE '\_transient\_tribe\_%'
+				AND a.option_name NOT LIKE '\_transient\_timeout\_tribe\_%'
+		 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Tribe__Cache->maybe_delete_expired_transients, Tribe__Cache->delete_expired_transients
+[11-Mar-2022 11:24:09 UTC] WordPress database error Commands out of sync; you can't run this command now for query 
+			DELETE
+				a,
+				b
+			FROM
+				wpqj_options a
+				INNER JOIN wpqj_options b
+					ON b.option_name = CONCAT( '_transient_timeout_', SUBSTRING( a.option_name, 12 ) )
+					AND b.option_value < 1646997849
+			WHERE
+				a.option_name LIKE '\_transient\_tribe\_%'
+				AND a.option_name NOT LIKE '\_transient\_timeout\_tribe\_%'
+		 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Tribe__Cache->maybe_delete_expired_transients, Tribe__Cache->delete_expired_transients
+[13-Mar-2022 04:11:27 UTC] WordPress database error Commands out of sync; you can't run this command now for query 
+			DELETE
+				a,
+				b
+			FROM
+				wpqj_options a
+				INNER JOIN wpqj_options b
+					ON b.option_name = CONCAT( '_transient_timeout_', SUBSTRING( a.option_name, 12 ) )
+					AND b.option_value < 1647144687
+			WHERE
+				a.option_name LIKE '\_transient\_tribe\_%'
+				AND a.option_name NOT LIKE '\_transient\_timeout\_tribe\_%'
+		 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Tribe__Cache->maybe_delete_expired_transients, Tribe__Cache->delete_expired_transients
+[15-Mar-2022 06:24:59 UTC] WordPress database error Commands out of sync; you can't run this command now for query 
+			DELETE
+				a,
+				b
+			FROM
+				wpqj_options a
+				INNER JOIN wpqj_options b
+					ON b.option_name = CONCAT( '_transient_timeout_', SUBSTRING( a.option_name, 12 ) )
+					AND b.option_value < 1647325499
+			WHERE
+				a.option_name LIKE '\_transient\_tribe\_%'
+				AND a.option_name NOT LIKE '\_transient\_timeout\_tribe\_%'
+		 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Tribe__Cache->maybe_delete_expired_transients, Tribe__Cache->delete_expired_transients
+[24-Mar-2022 04:26:27 UTC] WordPress database error Commands out of sync; you can't run this command now for query 
+			DELETE
+				a,
+				b
+			FROM
+				wpqj_options a
+				INNER JOIN wpqj_options b
+					ON b.option_name = CONCAT( '_transient_timeout_', SUBSTRING( a.option_name, 12 ) )
+					AND b.option_value < 1648095987
+			WHERE
+				a.option_name LIKE '\_transient\_tribe\_%'
+				AND a.option_name NOT LIKE '\_transient\_timeout\_tribe\_%'
+		 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Tribe__Cache->maybe_delete_expired_transients, Tribe__Cache->delete_expired_transients
+[30-Mar-2022 10:20:13 UTC] WordPress database error Commands out of sync; you can't run this command now for query 
+			DELETE
+				a,
+				b
+			FROM
+				wpqj_options a
+				INNER JOIN wpqj_options b
+					ON b.option_name = CONCAT( '_transient_timeout_', SUBSTRING( a.option_name, 12 ) )
+					AND b.option_value < 1648635613
+			WHERE
+				a.option_name LIKE '\_transient\_tribe\_%'
+				AND a.option_name NOT LIKE '\_transient\_timeout\_tribe\_%'
+		 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Tribe__Cache->maybe_delete_expired_transients, Tribe__Cache->delete_expired_transients
+[02-Apr-2022 14:45:04 UTC] WordPress database error Commands out of sync; you can't run this command now for query 
+			DELETE
+				a,
+				b
+			FROM
+				wpqj_options a
+				INNER JOIN wpqj_options b
+					ON b.option_name = CONCAT( '_transient_timeout_', SUBSTRING( a.option_name, 12 ) )
+					AND b.option_value < 1648910704
+			WHERE
+				a.option_name LIKE '\_transient\_tribe\_%'
+				AND a.option_name NOT LIKE '\_transient\_timeout\_tribe\_%'
+		 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Tribe__Cache->maybe_delete_expired_transients, Tribe__Cache->delete_expired_transients
+[04-Apr-2022 19:23:02 UTC] WordPress database error Commands out of sync; you can't run this command now for query 
+			DELETE
+				a,
+				b
+			FROM
+				wpqj_options a
+				INNER JOIN wpqj_options b
+					ON b.option_name = CONCAT( '_transient_timeout_', SUBSTRING( a.option_name, 12 ) )
+					AND b.option_value < 1649100182
+			WHERE
+				a.option_name LIKE '\_transient\_tribe\_%'
+				AND a.option_name NOT LIKE '\_transient\_timeout\_tribe\_%'
+		 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Tribe__Cache->maybe_delete_expired_transients, Tribe__Cache->delete_expired_transients
+[11-Apr-2022 16:51:40 UTC] PHP Notice:  Undefined index: password in /home3/ieeemint/events.ieee-mint.org/alfanew1.PHP(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(19) : eval()'d code(1) : eval()'d code on line 1
