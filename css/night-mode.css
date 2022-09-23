@@ -64,7 +64,7 @@ Night Mood
 }
 
 .night-mode p {
-    color: #6F767E;
+    color: #ffffff;
 }
 
 .night-mode #logo .logo-inverse {
@@ -95,11 +95,11 @@ Night Mood
 }
 
 .night-mode .hero-banner {
-    background-image: url(../images/dark-banner.jpg);
+    background-image: url(../images/forms-banner-black2.png);
 }
 
 .night-mode .breadcrumb-block {
-    background-image: url(../images/dark-banner.jpg);
+    background-image: url(../images/forms-banner-black2.png);
 }
 
 .night-mode .barren-breadcrumb .breadcrumb .breadcrumb-item a {

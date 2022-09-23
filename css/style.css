@@ -321,7 +321,7 @@ body {
 }
 
 .main-logo img {
-    width: 100%;
+    width: 70%;
 	padding-top: 0;
 }
 
@@ -377,7 +377,7 @@ body {
 }
 
 .navbar-toggler-icon:hover {
-    color: #6ac045 !important;
+    color: #6a45c0 !important;
 }
 
 .create-btn i {
@@ -390,13 +390,14 @@ body {
     color: #fff;
 	height: 40px;
     display: inline-block;
-    border: 2px solid #6ac045;
-	background-color: #6ac045;
+    border: 2px solid #5059d0;
+	background-color: #5059d0;
     padding: 8px 18px;
     border-radius: 3px;
     text-transform: capitalize;
     letter-spacing: 0.2px;
 }
+
 
 .right-header ul li {
     display: inline-block;
@@ -498,15 +499,15 @@ body {
 }
 
 .nav-link {
-    color: #000 !important;
+    color: #000000 !important;
 }
 
 .nav-link:hover {
-    color: #6ac045 !important;
+    color: #7e1cff !important;
 }
 
 .barren-head .nav-item .nav-link.active, .barren-head .nav-item .show>.nav-link {
-    color: #6ac045 !important;
+    color: #1b5efa !important;
 }
 
 .close-btn {
@@ -742,8 +743,10 @@ body {
 	margin-top: 60px;
 }
 
+/*Hero Banner for White*/
+
 .hero-banner {
-	background-image: url(../images/banner.jpg);
+	background-image: url(../images/forms-banner-white2.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -755,7 +758,7 @@ body {
 }
 
 .hero-banner-content h2 {
-    font-size: 32px;
+    font-size: 40px;
     line-height: 48px;
     font-weight: 600;
 	margin-bottom: 15px;
@@ -774,13 +777,13 @@ body {
     color: #fff;
     font-weight: 400;
 	text-align: center;
-    background: #6ac045;
+    background: #5059d0;
     height: 50px;
     display: inline-block;
     line-height: 49px;
     padding: 0 30px;
     border-radius: 3px;
-	border: 1px solid #6ac045;
+	border: 1px solid #5059d0;
 }
 
 .btn-hover:hover {
